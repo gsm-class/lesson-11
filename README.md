@@ -1,6 +1,7 @@
 # Lesson 11: 알고리즘
 
-- [ ] 수 정렬하기 2
+- [ ] [merge_sort_bottom_up.py](./merge_sort_bottom_up.py)
+- [ ] [q_sort.py](./q_sort.py)
 
 ## 수 정렬하기 2
 
